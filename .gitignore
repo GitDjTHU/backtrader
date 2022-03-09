@@ -68,4 +68,8 @@ samples2/
 # Ignore test files in Datas
 datas/*.py
 
+# PyChamr
 .idea/
+
+# Visual Studio Code
+.vscode/
